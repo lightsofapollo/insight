@@ -35,7 +35,7 @@ caching the parsed results we will end up with something very fast.
 
 The MIT License (MIT)
 
-Copyright (c) <2013> <Sahaja James Lal>
+Copyright (c) 2013 Sahaja James Lal
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
